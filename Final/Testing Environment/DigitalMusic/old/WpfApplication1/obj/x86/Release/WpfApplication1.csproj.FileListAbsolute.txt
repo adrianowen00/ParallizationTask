@@ -1,0 +1,52 @@
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.manifest
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.application
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\MainWindow.baml
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\App.g.cs
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1_MarkupCompile.cache
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.g.resources
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.exe.manifest
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.application
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.exe
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.pdb
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\Interop.DXTRANSLib.dll
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1.csproj.ResolveComReference.cache
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Release\NAudio.dll
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Release\NAudio.xml
+C:\Users\Grbac\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Release\WpfApplication1_MarkupCompile.lref
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\bin\Release\WpfApplication1.exe.config
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\bin\Release\WpfApplication1.exe.manifest
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\bin\Release\WpfApplication1.application
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\bin\Release\WpfApplication1.exe
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\bin\Release\WpfApplication1.pdb
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\bin\Release\Microsoft.DirectX.AudioVideoPlayback.dll
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\bin\Release\Microsoft.DirectX.DirectSound.dll
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\bin\Release\Microsoft.DirectX.dll
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\bin\Release\Microsoft.DirectX.Direct3D.dll
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\bin\Release\Microsoft.DirectX.xml
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\bin\Release\Microsoft.DirectX.AudioVideoPlayback.xml
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\bin\Release\Microsoft.DirectX.DirectSound.xml
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\bin\Release\Microsoft.DirectX.Direct3D.xml
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\obj\x86\Release\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\obj\x86\Release\Interop.DXTRANSLib.dll
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\obj\x86\Release\WpfApplication1.csproj.ResolveComReference.cache
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\obj\x86\Release\MainWindow.g.cs
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\obj\x86\Release\App.g.cs
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\obj\x86\Release\WpfApplication1_MarkupCompile.cache
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\obj\x86\Release\WpfApplication1_MarkupCompile.lref
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\obj\x86\Release\MainWindow.baml
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\obj\x86\Release\WpfApplication1.g.resources
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\obj\x86\Release\WpfApplication1.csproj.GenerateResource.Cache
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\obj\x86\Release\WpfApplication1.csproj.CoreCompileInputs.cache
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\obj\x86\Release\WpfApplication1.exe.manifest
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\obj\x86\Release\WpfApplication1.application
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\obj\x86\Release\WpfApplication1.exe
+E:\University\2018\CAB401\Assignmnet\DigitalMusic\WpfApplication1\obj\x86\Release\WpfApplication1.pdb

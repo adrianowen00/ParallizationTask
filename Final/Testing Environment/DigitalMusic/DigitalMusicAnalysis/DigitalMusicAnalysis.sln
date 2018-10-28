@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalMusicAnalysis", "DigitalMusicAnalysis.csproj", "{267DD77A-9C57-4975-B687-149F4593F2E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DMParallel", "..\Parallel\DMParallel.csproj", "{18EE6848-58B4-43B9-90FF-97144317C766}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMTest", "DMTest\DMTest.csproj", "{DB21BAD1-A20C-4327-9DC0-F579B27EF74C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{219DF56E-4D69-4466-A13D-573288D6CFFC}"
+	ProjectSection(SolutionItems) = preProject
+		DMtestset.testsettings = DMtestset.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{267DD77A-9C57-4975-B687-149F4593F2E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267DD77A-9C57-4975-B687-149F4593F2E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267DD77A-9C57-4975-B687-149F4593F2E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267DD77A-9C57-4975-B687-149F4593F2E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18EE6848-58B4-43B9-90FF-97144317C766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18EE6848-58B4-43B9-90FF-97144317C766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18EE6848-58B4-43B9-90FF-97144317C766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18EE6848-58B4-43B9-90FF-97144317C766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB21BAD1-A20C-4327-9DC0-F579B27EF74C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB21BAD1-A20C-4327-9DC0-F579B27EF74C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB21BAD1-A20C-4327-9DC0-F579B27EF74C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB21BAD1-A20C-4327-9DC0-F579B27EF74C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D992D3C-9F07-4D0A-A6A3-BDD1D38AAB62}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
